@@ -4,7 +4,7 @@
   "viewImageInCPB": true,
   "viewImageWithLink": true,
   "viewImageOther": true,
-  "pinMaximum": 3,
+  "pinMaximum": 4,
   "pinCoverMode": true,
   "imageMoveSpeed": 10,
   "imgTipToggle": true,
