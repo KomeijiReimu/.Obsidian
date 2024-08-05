@@ -2,6 +2,7 @@ core-plugins.json
 graph.json
 workspace
 workspaces.json
+workspace.json
 daily-notes.json
 plugins/obsidian-commits/data.json
 plugins/obsidian-day-planner/data.json
